@@ -75,7 +75,3 @@ This project uses Machine Learning models to analyze:
 4. Model Training (SVM)
 5. Evaluation (Accuracy)
 6. Prediction
-
----
-
-## 📁 Project Structure
